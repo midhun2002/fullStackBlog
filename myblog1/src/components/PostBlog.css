@@ -1,0 +1,32 @@
+.post-form {
+  text-align: center;
+}
+#post-tag,
+#post-title {
+  border-radius: 50px;
+  border-color: 2px solid black;
+  width: 500px;
+  height: 30px;
+  outline: none !important;
+  font-size: medium;
+  margin: 20px;
+}
+#post-area {
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
+  font-size: medium;
+  border-color: 2px solid black;
+  outline: none !important;
+  margin: 20px;
+}
+#submit {
+  background-color: rgb(57, 223, 107);
+  border-radius: 10px;
+  font-size: medium;
+  width: 100px;
+  padding: 10px 5px 10px 5px;
+  outline: none !important;
+  cursor: pointer;
+  margin: 20px;
+}
